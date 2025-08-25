@@ -72,9 +72,9 @@ const Profile = () => {
           <Avatar className="h-20 w-20 mx-auto mb-4">
             <AvatarFallback className="bg-white/20 text-white text-xl font-semibold">JD</AvatarFallback>
           </Avatar>
-          <h1 className="text-xl font-semibold mb-1">John Doe</h1>
-          <p className="text-white/80 text-sm">+91 98765 43210</p>
-          <p className="text-white/80 text-sm">john.doe@email.com</p>
+          <h1 className="text-xl font-semibold mb-1">Prabu Dhayalan</h1>
+          <p className="text-white/80 text-sm">+91 99999 88888</p>
+          <p className="text-white/80 text-sm">prabu.dhayalan@email.com</p>
           <Badge className="bg-white/20 text-white border-white/30 mt-2">
             Premium Member
           </Badge>

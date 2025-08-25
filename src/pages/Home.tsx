@@ -46,11 +46,11 @@ const Home = () => {
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-3">
             <Avatar className="h-10 w-10">
-              <AvatarFallback className="bg-white/20 text-white">JD</AvatarFallback>
+              <AvatarFallback className="bg-white/20 text-white">PD</AvatarFallback>
             </Avatar>
             <div>
               <p className="text-sm opacity-90">Good Morning</p>
-              <p className="font-semibold">John Doe</p>
+              <p className="font-semibold">Prabu Dhayalan</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
